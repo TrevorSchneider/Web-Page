@@ -1,0 +1,84 @@
+html {
+  background-color: darkgray; 
+}
+/* this is the code for the header section */
+header h1  {
+  text-align: center;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 0px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+header p {
+  text-align: center;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+
+header {
+  background-color: #312F2F;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+header {
+  height: 125px;
+  width: auto;
+}
+
+
+/* this is the code for the main section */
+main {
+  width: auto;
+  background-color: #EF626C;
+  color: #312F2F;
+  margin-left: 150px;
+  margin-right:150px;
+  margin-bottom: 0px;
+}
+.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 15px;
+  width: 70%;
+}
+
+main h2 {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+main p {
+  text-align: center;
+  font-size: 20px;
+   font-family: 'Courier New', Courier, monospace;
+}
+
+main ul {
+  text-align: center;
+   font-family: 'Courier New', Courier, monospace;
+}
+
+main ol {
+  text-align: center;
+   font-family: 'Courier New', Courier, monospace;
+}
+a:link    { color: blue;  }
+a:visited { color: lightblue;   }
+a:hover   { color: white; }
+a:active  { color: pink;  }
+
+/* this is the code for the footer */
+footer {
+  background-color: #312F2F; 
+  height: 75px;
+  padding-top: 20px;
+  margin-left: 150px;
+  margin-right: 150px;
+  text-align: center;
+  color: white;
+   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
